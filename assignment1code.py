@@ -8,3 +8,4 @@ print("Hello, World!")
 print("My name is " + studentName + " and I am a student in ENSF 692.")
 
 # print your best skill here
+print("My best skill is that I am an amazing cook.")
