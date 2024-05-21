@@ -1,5 +1,5 @@
 ## NAME
-Adeel Ahmed Salman
+Adeel_Ahmed_Salman
 
 ## Inspirational Quote
 > Compromise for your dream, but never compromise on your dream.
